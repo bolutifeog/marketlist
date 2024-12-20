@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bolutifeog/marketlist/static/css/main.2aed1e38.css",
+    "main.js": "/bolutifeog/marketlist/static/js/main.13cb7cf5.js",
+    "static/js/453.785134cd.chunk.js": "/bolutifeog/marketlist/static/js/453.785134cd.chunk.js",
+    "static/media/circle.jpeg": "/bolutifeog/marketlist/static/media/circle.214ea2cf8c4982a39324.jpeg",
+    "index.html": "/bolutifeog/marketlist/index.html",
+    "main.2aed1e38.css.map": "/bolutifeog/marketlist/static/css/main.2aed1e38.css.map",
+    "main.13cb7cf5.js.map": "/bolutifeog/marketlist/static/js/main.13cb7cf5.js.map",
+    "453.785134cd.chunk.js.map": "/bolutifeog/marketlist/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aed1e38.css",
+    "static/js/main.13cb7cf5.js"
+  ]
+}
